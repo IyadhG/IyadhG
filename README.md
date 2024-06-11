@@ -51,7 +51,7 @@
 <h2 align="center">
   Bonus fun fact
 </h2>
-I have a <a href="https://www.youtube.com/@SoKratos-"> Youtube channel where I make and post video about gaming, feel free to check it out. </a>
+I have a <a href="https://www.youtube.com/@SoKratos-"> Youtube channel </a>where I make and post video about gaming, feel free to check it out. 
 
 ---
 
