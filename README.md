@@ -40,7 +40,7 @@
 
 <ul>
   <li><a href="https://github.com/IyadhG/GPIO"> Embedded system</a>: Generic Pilot for the GPIO of the STM32F4 microcontroller</li>
-  <li><a href="https://github.com/IyadhG/neural-network"> Feedforward nerual network</a>: My end of study project, a model that predicts soil compaction based on 5 factors (humidity, weight of equipment, pressure exerted on the soil ...</li>
+  <li><a href="https://github.com/IyadhG/neural-network"> Artificial nerual network</a>: My end of study project, a model that predicts soil compaction based on 5 factors (humidity, weight of equipment, pressure exerted on the soil ...</li>
 </ul>
 <h2 align="center">📫 Contact Me</h2>
 
