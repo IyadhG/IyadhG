@@ -48,12 +48,7 @@
   Feel free to reach out to me through my e-mail: ghiloufi.iyadh@gmail.com 
   I'm always open to collaboration and new opportunities.
 </p>
-<h2 align="center">
-  Bonus fun fact
-</h2>
-I have a <a href="https://www.youtube.com/@SoKratos-"> Youtube channel </a>where I make and post video about gaming, feel free to check it out. 
 
----
 
 
 
