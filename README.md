@@ -19,7 +19,7 @@
 
 ## 🧠 About Me
 
-I'm a final-year **AI Engineering** student with a background in mathematics. My work sits at the intersection of **LLM engineering**, **agentic AI systems**, and **model evaluation**. I enjoy turning unstructured data into structured, actionable intelligence — and making sure the systems I build are measurable, explainable, and reliable.
+I'm a final-year **AI Engineering** student. My work sits at the intersection of **LLM engineering**, **agentic AI systems**, and **model evaluation**. I enjoy turning business requirements into actionable intelligent systems, and making sure these systems I build are measurable, explainable, and reliable.
 
 - 🔬 Training and **fine-tuning LLMs** for specialized tasks
 - 🤖 Designing **agentic AI systems** with LangGraph, MCP, and multi-node workflows
@@ -36,7 +36,6 @@ I'm a final-year **AI Engineering** student with a background in mathematics. My
 An intelligent system for analyzing and clustering company funding and news events using **agentic workflows** built with **LangGraph** and **MCP (Model Context Protocol)**.
 
 - **Multi-agent workflow** orchestration with LangGraph (sequential + parallel processing)
-- **Funding & News graphs** — 6-node and 4-node pipelines for fetching, normalizing, LLM extraction, aggregation, and finalization
 - **MCP server** exposing tools for web search, memory retrieval, evaluation, and runtime configuration
 - **Two-tier memory architecture** (short-term SQLite + embeddings, long-term summarized history) with **semantic search** via `text-embedding-3-small`
 - **LLM provider comparison** — Groq (primary, for inference speed) vs. OpenRouter (fallback, for model diversity), with model selection driven by task-specific benchmarks (IFBench, GPQA Diamond, AA-LCR, hallucination rate)
@@ -62,33 +61,31 @@ A generic driver layer for the GPIO peripheral of the STM32F4 microcontroller.
 
 **AI / ML**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 
 **Agentic & Tooling**
 ![MCP](https://img.shields.io/badge/MCP-FastMCP-blue?style=flat)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
+![n8n](https://img.shields.io/badge/n8n-Automation-EA4B71?style=flat&logo=n8n&logoColor=white)
 
 **Systems & Low-Level**
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
-
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ---
 
 ## 🎓 Focus Areas
 
 | Area | What I work on |
 |------|----------------|
-| **LLM Engineering** | Fine-tuning, prompt design, structured extraction, hallucination control |
+| **LLM Engineering** | Fine-tuning, prompt design, feature engineering |
 | **Agentic Systems** | LangGraph workflows, MCP servers/clients, multi-node pipelines, tool orchestration |
-| **Evaluation & XAI** | Automated metrics, confidence calibration, decision explainability, A/B testing |
+| **Evaluation & XAI** | Automated metrics, confidence calibration, decision explainability|
 | **Memory & Retrieval** | Embedding-based semantic search, hybrid retrieval, short/long-term memory design |
-| **Model Selection** | Benchmark-driven LLM provider comparison (Groq vs. OpenRouter) |
 
 ---
 
